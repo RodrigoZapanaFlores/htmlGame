@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+canvas {
+    border: 2px solid rgb(0, 0, 0);
+    margin: 100px auto 50px auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("./img/port.png");
+}
+div{
+    text-align: center;
+}
+button {
+    padding: 10px 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+body {
+    background-image: url("http://cdn28.us1.fansshare.com/photograph/beavisandbuttheaddoamerica/beavis-and-butt-head-cartoon-hd-wallpaper-movie-712296878.jpg");
+}
+
+
+
+
